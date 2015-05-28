@@ -1,0 +1,1 @@
+Here lies my attempt at little silly static methods of various kinds to make C# read more like the English language.
