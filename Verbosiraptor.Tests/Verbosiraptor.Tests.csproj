@@ -53,6 +53,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="TExtensionsTests.cs" />
     <Compile Include="ThereTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
